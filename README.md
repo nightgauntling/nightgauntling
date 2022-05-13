@@ -10,5 +10,6 @@
 - 
 - I've also started the groundwork for a database of objective and subjective data about art and entertainment called CULTure. 
 - I'd like it to be useful for anthropological data as well as neural networking in the future. 
-- Or maybe I just wanted to start a cult, being a cult leader sounds like a cushy job.
+- For now, I'll be boning up on PHP, SQL, Python, and more by exploring Wikimedia a bit.
+- Or maybe I just wanted to start a project called cult, because being a cult leader sounds like a cushy job.
 -
